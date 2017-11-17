@@ -5,5 +5,5 @@
 * This folder contains a group messenger android application that provides FIFO and TOTAL ordering guarantee of the messages.
 
 
-#### IMPORTANT NOTE:
+**Important Note:**
 The initialization and port redirection scripts in Python have been provided by Prof. Dr. Steve Ko. And more description about the projects in Distributed Systems course can be found at: https://www.cse.buffalo.edu//~stevko/courses/cse486/spring17/pas.html
